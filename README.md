@@ -1,3 +1,3 @@
 #Skynews
-freeskynews.netlify.app
+https://freeskynews.netlify.app/
 
